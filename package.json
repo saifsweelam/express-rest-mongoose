@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/saifsweelam/restify-mongoose.git"
   },
-  "type": "module",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "keywords": [
     "express",
     "backend",
